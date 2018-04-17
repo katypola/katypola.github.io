@@ -269,7 +269,8 @@ div.homeDiv {
       div.homeDiv .pattern-overlay div#contactSection p, div.homeDiv .pattern-overlay div#contactSection a {
         text-align: center;
         font-size: 1.4vw;
-        color: #333; }
+        color: #333;
+        cursor: none; }
     div.homeDiv .pattern-overlay div#contactSection:hover {
       z-index: 600;
       cursor: pointer;

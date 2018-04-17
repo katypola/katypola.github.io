@@ -391,8 +391,14 @@ div.homeDiv {
     		text-align: center;
     		font-size: 1.4vw;
     		color: #333;
+        cursor: none;
     	}
-    }
+
+      // a:hover {
+        // cursor: pointer;
+      // }
+      }
+    // }
 
     div#contactSection:hover {
     	z-index: 600;
@@ -401,6 +407,7 @@ div.homeDiv {
     	box-shadow: 3px 3px 3px 2px rgba(115, 115, 115, 0.9);
     	transition: all 500ms ease;
     }
+  }
 }
-}
+// }
 // end of parallax
