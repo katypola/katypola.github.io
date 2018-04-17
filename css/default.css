@@ -249,7 +249,7 @@ div.homeDiv {
       margin-left: 22.5vw;
       margin-bottom: 0; }
     div.homeDiv .pattern-overlay div#contactSection {
-      width: 24vw;
+      width: 28vw;
       margin: 0 auto;
       background-color: rgba(255, 255, 255, 0.4);
       border-radius: 80px;
@@ -261,8 +261,11 @@ div.homeDiv {
       z-index: 500;
       transition: all 500ms ease; }
       div.homeDiv .pattern-overlay div#contactSection img#gitlogo {
-        width: 5vw;
-        padding-right: 3vw; }
+        width: 2vw;
+        padding-right: 0.3vw; }
+      div.homeDiv .pattern-overlay div#contactSection img#linkedinlogo {
+        width: 2vw;
+        padding-right: 0.3vw; }
       div.homeDiv .pattern-overlay div#contactSection p, div.homeDiv .pattern-overlay div#contactSection a {
         text-align: center;
         font-size: 1.4vw;

@@ -365,7 +365,7 @@ div.homeDiv {
     }
 
     div#contactSection {
-    	width: 24vw;
+    	width: 28vw;
     	margin: 0 auto;
     	background-color: rgba(255, 255, 255, 0.4);
     	border-radius: 80px;
@@ -378,9 +378,13 @@ div.homeDiv {
     	transition: all 500ms ease;
 
       img#gitlogo {
-        width: 5vw;
-        padding-right: 3vw;
-        // height: 5vh;
+        width: 2vw;
+        padding-right: 0.3vw;
+      }
+
+      img#linkedinlogo {
+        width: 2vw;
+        padding-right: 0.3vw;
       }
 
     	p, a {
