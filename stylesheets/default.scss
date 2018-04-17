@@ -377,11 +377,11 @@ div.homeDiv {
     	z-index: 500;
     	transition: all 500ms ease;
 
-      img {
-        width: 5vw;
-        padding-right: 3vw;
-        // height: 5vh;
-      }
+      // img#gitlogo {
+      //   width: 5vw;
+      //   padding-right: 3vw;
+      //   // height: 5vh;
+      // }
 
     	p, a {
     		text-align: center;
@@ -398,5 +398,12 @@ div.homeDiv {
     	transition: all 500ms ease;
     }
 }
+
+img#gitlogo {
+        width: 5vw;
+        padding-right: 3vw;
+        // height: 5vh;
+      }
+      
 }
 // end of parallax
