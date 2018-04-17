@@ -160,6 +160,7 @@ div.homeDiv {
       border-bottom: 3px solid #bfbfbf;
       margin-bottom: 2.4vh; }
     div.homeDiv .section.third div.projectDiv {
+      cursor: none;
       margin: 0 auto;
       width: 40vw;
       padding-top: 0.6vh;
@@ -259,6 +260,9 @@ div.homeDiv {
       cursor: default;
       z-index: 500;
       transition: all 500ms ease; }
+      div.homeDiv .pattern-overlay div#contactSection img#gitlogo {
+        width: 5vw;
+        padding-right: 3vw; }
       div.homeDiv .pattern-overlay div#contactSection p, div.homeDiv .pattern-overlay div#contactSection a {
         text-align: center;
         font-size: 1.4vw;
